@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+/venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Data files (optional, but good practice if they are large)
+data/vectordb/
+data/embeddings/

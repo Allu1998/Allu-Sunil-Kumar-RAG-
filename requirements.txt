@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pdfminer.six
+pdfplumber
+sentence-transformers
+transformers
+chromadb
+chroma-hnswlib
+numpy
+scikit-learn
+scipy
+pydantic
+python-dotenv
+requests
+rich
